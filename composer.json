@@ -1,0 +1,14 @@
+{
+    "name": "matsubara/geotest",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pinekta",
+            "email": "h03a081b@gmail.com"
+        }
+    ],
+    "require": {
+        "geoip2/geoip2": "^2.9"
+    }
+}
